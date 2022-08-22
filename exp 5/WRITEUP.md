@@ -20,8 +20,17 @@ Replication and High Availability: MongoDB increases the data availability with 
 
 Aggregation: Aggregation operations process data records and return the computed results. It is similar to the GROUPBY clause in SQL. A few aggregation expressions are sum, avg, min, max, etc
 
+#### Commands (Nosql)
+
+![insert command](https://user-images.githubusercontent.com/74452252/185842980-2f3477d5-83ba-4937-91a1-a55a887fec89.PNG)
+
+![pretty command display](https://user-images.githubusercontent.com/74452252/185843053-b2872911-0820-46e1-acd9-2e6768df6007.PNG)
+
+![image](https://user-images.githubusercontent.com/74452252/185843180-1f81180f-2add-4edb-a9eb-c263f95a2f09.png)
+
+![update and find command ](https://user-images.githubusercontent.com/74452252/185843077-95e2f452-d5c8-4793-8d4d-2b0aec7d3566.PNG)
 
 
 
 
-### Conclusion:
+### Conclusion: MongoDB and NoQL are studied and implemented successfully
